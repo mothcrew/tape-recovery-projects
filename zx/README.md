@@ -7,7 +7,7 @@ tape2pulses tape.wav tape.pulses
 
 ## Convert .pulses to .tap
 ```
-python3 zx_pulses2tap_v2.py MAJICK.pulses MAJICK.tap
+python3 zx_pulses2tap_v2.py tape.pulses tape.tap
 ```
 
 ## Emulate

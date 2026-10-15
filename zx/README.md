@@ -11,8 +11,6 @@ python3 zx_pulses2tap_v2.py tape.pulses tape.tap
 ```
 
 ## Emulate
-Then take tape.tzx and drop it in a ZX Spectrum emulator
-
 There are several in the wild but I like ZEsarUX
 
 download ZEsarUX:
